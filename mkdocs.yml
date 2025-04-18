@@ -1,5 +1,7 @@
 site_name: paintf's blog
 site_url: https://paintf.github.io/
+site_description: 经验很重要
 site_author: paintf
 theme:
   name: material #主题
+  
